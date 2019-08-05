@@ -24,9 +24,9 @@ the `Worker` API in this package exposes and implementation based on the former 
         }
     }
     ```
-2. Add `implementation 'suparnatural-kotlin-multiplatform:concurrency-metadata:1.0.5'` to `commonMain`.
-3. Add `implementation 'suparnatural-kotlin-multiplatform:concurrency-iosx64(or iosarm64):1.0.5'` to `iosMain`.
-4. Add `implementation 'suparnatural-kotlin-multiplatform:concurrency-android:1.0.5'` to `androidMain`.
+2. Add `implementation 'suparnatural-kotlin-multiplatform:concurrency-metadata:<latest-version>'` to `commonMain`.
+3. Add `implementation 'suparnatural-kotlin-multiplatform:concurrency-iosx64(or iosarm64):<latest-version>'` to `iosMain`.
+4. Add `implementation 'suparnatural-kotlin-multiplatform:concurrency-android:<latest-version>'` to `androidMain`.
 
 
 ## Usage
